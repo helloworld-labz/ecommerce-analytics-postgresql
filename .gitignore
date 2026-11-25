@@ -1,0 +1,29 @@
+
+# Environment variables and credentials
+.env
+.env.*
+!.env.example
+
+# Database backups and dumps
+*.dump
+*.backup
+*.bak
+*.sql.gz
+
+# Temporary and log files
+*.log
+*.tmp
+*.temp
+
+# Windows system files
+Thumbs.db
+Desktop.ini
+
+# macOS system files
+.DS_Store
+
+# IDE and editor settings
+.idea/
+.vscode/
+*.swp
+*.swo
